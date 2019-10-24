@@ -17,5 +17,7 @@ The project was developed in the premise of developing a new or improved version
 more detail the interfaces with given theories in HCI, quantitative statistics like ANOVA and qualitative statistics like 
 NASA-TLX. 
 
+This project consists of the demo of the project along with the report of the experiment and its results.
+
 Link to video:
 https://cs444-macc.weebly.com/
